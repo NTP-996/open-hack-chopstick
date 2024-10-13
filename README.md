@@ -1,3 +1,4 @@
+![image](./Open_Hack_Chopstick.png)
 # 🥢 Open Hack Chopstick
 
 ## 📝 Introduction
